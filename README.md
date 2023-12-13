@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pjxthy
+- 👋 Hi, I’m @x-nimble
 - 👀 I’m interested in decentralization technologies
 - 🌱 I’m currently learning Rust, Move and Solidity
 - 💞️ I’m looking to collaborate on ...
